@@ -11,13 +11,13 @@ En 2024 impartió el curso de  INGENIERÍA Y ROBÓTICA CON ARDUINO Y PYTHON repr
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: [Marcos Alejandro Moreira Merino]
-* Ocupación: [Estudiante de la carrera de Ingeniería en Computación en la ESPOL]
+* Nombre: Marcos Alejandro Moreira Merino
+* Ocupación: Estudiante de la carrera de Ingeniería en Computación en la ESPOL
 
 ## Proyectos
-* [Lista de tus proyectos]
+* ProyectoBasesDatosCrowfounding : (https://github.com/mamomeri/ProyectoBasesDatosCrowfounding)
 ## Intereses
-* [Lista de tus intereses]
-* [Lista de tus intereses]
-* [Lista de tus intereses]
+* Programar.
+* Practicar idiomas.
+* Editar videos.
  

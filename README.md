@@ -21,3 +21,4 @@ En 2024 impartió el curso de  INGENIERÍA Y ROBÓTICA CON ARDUINO Y PYTHON repr
 * Practicar idiomas.
 * Editar videos.
  
+![Mi Página](urlmipagina.png)

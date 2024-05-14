@@ -21,4 +21,8 @@ En 2024 impartió el curso de  INGENIERÍA Y ROBÓTICA CON ARDUINO Y PYTHON repr
 * Practicar idiomas.
 * Editar videos.
 
-El código QR de esta página es: ![Mi Página](urlmipagina.png)
+El código QR de esta página es:
+## 
+![Mi Página](urlmipagina.png)
+## 
+https://mamomeri.github.io/mamomeri/
